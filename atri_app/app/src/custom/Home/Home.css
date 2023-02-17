@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+* {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.p-Home.Flex1 a {
+    text-decoration: none;
+    color: #616D7E;
+}
+
+.p-Home.Flex5,
+.p-Home.TextBox4,
+.p-Home.TextBox5,
+.p-Home.TextBox6,
+.p-Home.TextBox9,
+.p-Home.TextBox12,
+.p-Home.TextBox15,
+.p-Home.TextBox36,
+.p-Home.TextBox40,
+.p-Home.TextBox43,
+.p-Home.TextBox53,
+.p-Home.TextBox54,
+.p-Home.TextBox56,
+.p-Home.TextBox58,
+.p-Home.TextBox59,
+.p-Home.TextBox60,
+.p-Home.TextBox62,
+.p-Home.TextBox63,
+.p-Home.TextBox65,
+.p-Home.TextBox66,
+.p-Home.TextBox68,
+.p-Home.TextBox69,
+.p-Home.TextBox71,
+.p-Home.TextBox72,
+.p-Home.TextBox74,
+.p-Home.TextBox75,
+.p-Home.TextBox77,
+.p-Home.TextBox80,
+.p-Home.TextBox86,
+.p-Home.TextBox93,
+.p-Home.TextBox98,
+.p-Home.TextBox100,
+.p-Home.TextBox102,
+.p-Home.TextBox104,
+.p-Home.TextBox105,
+.p-Home.TextBox117 {
+    font-weight: 600;
+}
